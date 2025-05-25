@@ -1,4 +1,4 @@
-//Write ab program to give the sum of the row and the column in a matrix
+//Write a program to give the sum of the row and the column in a matrix
 
 #include <stdio.h>
 
